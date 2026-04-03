@@ -1,12 +1,12 @@
 # Flood Monitoring System using Arduino
 
 ## 📌 Description
-This project measures water level using an ultrasonic sensor and detects flood conditions.
+This project measures water level using an ultrasonic sensor and detects flood conditions .
 
 ## ⚙️ Components
 - Arduino
 - Ultrasonic Sensor (HC-SR04)
-- LCD Display (16x2)
+- LCD Display LCD1602(16x2)
 - LEDs (Green & Red)
 - Buzzer
 
